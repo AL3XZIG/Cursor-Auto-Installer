@@ -1,4 +1,4 @@
-Here’s a refined **`README.md`** for your **"Cursor Auto Installer"** project, covering both **Arch Linux (AUR/pacman)** and **Debian/Ubuntu (APT)** installations:
+
 
 ---
 
