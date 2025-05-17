@@ -1,0 +1,1 @@
+# Cursor-Auto-Installer
